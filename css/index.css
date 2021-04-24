@@ -1,0 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: linear-gradient(135deg, #fad7a1 0%, #e96d71 100%);
+}
+@import "header.css";
